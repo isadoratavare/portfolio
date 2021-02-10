@@ -10,8 +10,20 @@ body{
     background: pink;
     height: 100vh;
 }
-
+header{
+    background-color:pink ;
+}
 h1{
     color:#DE5B6D;
     padding: 10px;
+}
+#menu{
+    border-bottom: 4px solid #DE5B6D;
+}
+#banner{
+    margin-top: 90px;
+}
+#banner h1{
+    font-size:8vh ;
+    color: white;
 }
